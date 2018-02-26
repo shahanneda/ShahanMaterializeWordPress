@@ -1,0 +1,13 @@
+/*
+Theme Name:swpm
+Author:Shahan Nedadahandeh
+Description:Built on materialize css, fast and effitiont
+Version: 0.0.1
+Tags: materialize css
+*/
+.icon-block {
+  padding: 0 15px;
+}
+.icon-block .material-icons {
+	font-size: inherit;
+}
