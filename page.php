@@ -4,7 +4,7 @@
  */
 get_header(); ?>
 
-<div id="main-content" class="main-content">
+<div id="main-content" class="main-content container">
   <h1><?php single_post_title(); ?></h1>
 	<div id="primary" class="content-area">
 		<div id="content" class="site-content" role="main">
